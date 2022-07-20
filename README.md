@@ -3,8 +3,8 @@
 | 2022-7-11 | React Query | [Note](./notes/react-query.md) |
 | 2022-7-12 | React Query |                                |
 | 2022-7-13 | Recoil      |                                |
+| 2022-7-20 | GraphQL      |                                |
 
-[graphQL]()
 
 [쑥쑥 들어오는 함수형 코딩]()
 
