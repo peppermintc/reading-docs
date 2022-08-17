@@ -23,4 +23,6 @@
 
 MUI 스터디
 
-react query 
+react query TkDodo blog
+
+함수형 프로그래밍
